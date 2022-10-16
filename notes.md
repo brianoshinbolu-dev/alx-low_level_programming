@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>Log 2: 10th Feb 2022</summary>
+<summary>Log 2: </summary>
 
 - [0x01: Variables,if,else,while](./0x01-variables_if_else_while)
 - Most of the codes were using for loops, so wrote them once more using while loops.
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary>Log 3 & 4: 12th - 14th Feb 2022</summary>
+<summary>Log 3 & 4: </summary>
 
 - [0x02: Functions, nested loops](./0x02-functions_nested_loops)
 - So the weekend was long, never had internet the whole of friday night and half of the day on saturday.
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary>Log 5: 15th - 17th Feb 2022</summary>
+<summary>Log 5: </summary>
 
 - [0x02: Functions, nested loops](./0x02-functions_nested_loops)
 - 15th completed task 7 - 11
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-<summary>Log 6: 24th February 2022</summary>
+<summary>Log 6: </summary>
 
 - I have forgotten the dates so now I will just log this way.
 - [0x03 : Debugging](./0x03-debugging); completed seven days ago (17th Feb).
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary>Log 7: 2nd - 13th March 2022</summary>
+<summary>Log 7: </summary>
 
 - On 2nd March I finished to redo [Pointers and Arrays](./PointerArrays) under More Resources.
 - March 3rd - 13th March I have managed to do [pwn.college](https://pwn.college/) embryoio module (from lvl 73 - 110) 37 challs.
@@ -104,7 +104,7 @@
 </details>
 
 <details>
-<summary>Log 8: 13th - 16th March 2022</summary>
+<summary>Log 8: </summary>
 
 - Spent two days solving a vim bug... 😭😭😭😭 then I had to restructure my vimrc file now I am done with that forever. (I hope it was worth the time)
 - Managed to do 3 tasks in [0x05 : Pointers, arrays and strings](./0x05-pointers_arrays_strings)
